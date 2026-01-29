@@ -1,6 +1,18 @@
 # HexSoftwares_Project-1_EDA
 1st project of Hexsoftwares-internship
 
-EDA on Titanic Dataset using Python.
+# Titanic Survival Prediction
 
-Tools used: Pandas, Matplotlib, Seaborn.
+This project uses machine learning techniques to predict passenger survival on the Titanic dataset.
+
+Tools Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+Dataset:
+- Kaggle Titanic Dataset
+
