@@ -2,4 +2,5 @@
 1st project of Hexsoftwares-internship
 
 EDA on Titanic Dataset using Python.
-Tools: Pandas, Matplotlib, Seaborn.
+
+Tools used: Pandas, Matplotlib, Seaborn.
